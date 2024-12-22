@@ -1,0 +1,74 @@
+.sentiment-charts {
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.chart-container {
+    margin-bottom: 30px;
+}
+
+.chart-container h3 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+.chart-wrapper {
+    height: 300px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.chart-summary {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.chart-summary h4 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.chart-summary ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.chart-summary li {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.chart-no-data {
+    text-align: center;
+    padding: 40px;
+    color: #666;
+    background: #f8f9fa;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+    .chart-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .chart-wrapper {
+        height: 250px;
+    }
+}
