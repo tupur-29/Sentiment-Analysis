@@ -1,0 +1,147 @@
+# This file will be automatically populated with logs when the application runs
+2024-12-22 15:28:40,107 - uvicorn.error - INFO - Started server process [3768]
+2024-12-22 15:28:40,111 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 15:28:40,112 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 15:38:58,469 - uvicorn.error - INFO - Started server process [4868]
+2024-12-22 15:38:58,473 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 15:38:58,475 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 15:39:39,030 - uvicorn.error - INFO - Shutting down
+2024-12-22 16:20:06,467 - uvicorn.error - INFO - Started server process [15808]
+2024-12-22 16:20:06,468 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 16:20:06,470 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 16:24:20,565 - uvicorn.error - INFO - Started server process [5960]
+2024-12-22 16:24:20,569 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 16:24:20,574 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 16:29:07,712 - uvicorn.error - INFO - Started server process [16300]
+2024-12-22 16:29:07,753 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 16:29:07,764 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 16:33:45,954 - uvicorn.error - INFO - Started server process [12340]
+2024-12-22 16:33:46,000 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 16:33:46,071 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 16:36:27,198 - uvicorn.error - INFO - Shutting down
+2024-12-22 16:44:41,028 - uvicorn.error - INFO - Started server process [13412]
+2024-12-22 16:44:41,229 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 16:44:41,232 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 16:50:01,309 - uvicorn.error - INFO - Shutting down
+2024-12-22 16:50:01,490 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-22 16:50:01,516 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-22 16:50:01,517 - uvicorn.error - INFO - Finished server process [13412]
+2024-12-22 18:28:21,119 - uvicorn.error - INFO - Started server process [2936]
+2024-12-22 18:28:21,199 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 18:28:21,201 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 18:40:01,881 - uvicorn.error - INFO - Shutting down
+2024-12-22 18:41:04,911 - uvicorn.error - INFO - Started server process [9924]
+2024-12-22 18:41:04,992 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 18:41:04,996 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 18:55:41,203 - uvicorn.error - INFO - Started server process [12008]
+2024-12-22 18:55:41,204 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 18:55:41,209 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:06:30,963 - uvicorn.error - INFO - Started server process [12048]
+2024-12-22 19:06:30,987 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:06:30,996 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:11:21,519 - uvicorn.error - INFO - Started server process [7640]
+2024-12-22 19:11:21,524 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:11:21,525 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:12:38,619 - uvicorn.error - INFO - Shutting down
+2024-12-22 19:12:38,729 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-22 19:12:38,730 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-22 19:12:38,730 - uvicorn.error - INFO - Finished server process [7640]
+2024-12-22 19:15:34,258 - uvicorn.error - INFO - Started server process [11268]
+2024-12-22 19:15:34,302 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:15:34,317 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:17:35,343 - uvicorn.error - INFO - Shutting down
+2024-12-22 19:18:57,538 - uvicorn.error - INFO - Started server process [808]
+2024-12-22 19:18:58,073 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:18:58,811 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:48:51,611 - uvicorn.error - INFO - Shutting down
+2024-12-22 19:48:51,752 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-22 19:48:51,775 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-22 19:48:51,776 - uvicorn.error - INFO - Finished server process [808]
+2024-12-22 19:50:40,608 - uvicorn.error - INFO - Started server process [656]
+2024-12-22 19:50:40,610 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:50:40,612 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:52:10,443 - uvicorn.error - INFO - Shutting down
+2024-12-22 19:52:10,568 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-22 19:52:10,574 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-22 19:52:10,581 - uvicorn.error - INFO - Finished server process [656]
+2024-12-22 19:53:25,536 - uvicorn.error - INFO - Started server process [8312]
+2024-12-22 19:53:25,806 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:53:25,898 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 19:55:58,865 - uvicorn.error - INFO - Shutting down
+2024-12-22 19:59:33,247 - uvicorn.error - INFO - Started server process [4088]
+2024-12-22 19:59:33,250 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-22 19:59:33,254 - uvicorn.error - INFO - Application startup complete.
+2024-12-22 20:00:02,160 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc from None
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc from None
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\routing.py", line 580, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\routing.py", line 241, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\routing.py", line 52, in app
+    response = await func(request)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\fastapi\routing.py", line 219, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\fastapi\routing.py", line 152, in run_endpoint_function
+    return await dependant.call(**values)
+  File ".\app\main.py", line 87, in login_for_access_token
+    user = authenticate_user(form_data.username, form_data.password)
+  File ".\app\core\security.py", line 23, in authenticate_user
+    if username == settings.TEST_USER and password == settings.TEST_PASSWORD:
+AttributeError: 'Settings' object has no attribute 'TEST_USER'
+2024-12-22 20:00:10,633 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc from None
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\middleware\cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc from None
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\routing.py", line 580, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\routing.py", line 241, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\starlette\routing.py", line 52, in app
+    response = await func(request)
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\fastapi\routing.py", line 219, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\user\OneDrive\Documents\Sentiment Analysis\venv\lib\site-packages\fastapi\routing.py", line 152, in run_endpoint_function
+    return await dependant.call(**values)
+  File ".\app\main.py", line 87, in login_for_access_token
+    user = authenticate_user(form_data.username, form_data.password)
+  File ".\app\core\security.py", line 23, in authenticate_user
+    if username == settings.TEST_USER and password == settings.TEST_PASSWORD:
+AttributeError: 'Settings' object has no attribute 'TEST_USER'
